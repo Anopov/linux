@@ -1,1 +1,1 @@
-systemctl get-default
+$ systemctl get-default 
